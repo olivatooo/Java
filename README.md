@@ -38,3 +38,4 @@
   * (Copia a pasta git do site para o computador)
 - [x] Aprender GIT
 - [] Pegar as atualizações
+- git reset HEAD~1
