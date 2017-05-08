@@ -16,8 +16,8 @@
 - git clone https://github.com/olivatooo/Java 
   * (Copia a pasta git do site para o computador)
 - git push origin master
-  * (Manda pro site as atualizações)
+  * (Manda pro site as atualizaÃ§Ãµes)
 - git fetch origin master
-  * (Atualiza para a última versão)
+  * (Atualiza para a Ãºltima versÃ£o)
 - git reset --hard
-  * (Volta para a versão anterior - apaga a outra)
+  * (Volta para a versÃ£o anterior - apaga a outra)
